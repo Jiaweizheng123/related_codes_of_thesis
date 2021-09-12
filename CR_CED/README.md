@@ -4,7 +4,8 @@
 
 # Acknowledgement
 
-My sincere thanks to my supervisor, Dr. Paul Hill, for his codes which has been uploaded in the GitHub(https://github.com/csprh/AudioDenoiser.git). 
+My sincere thanks to my supervisor, Dr. Paul Hill, for his codes which has been uploaded in the GitHub(https://github.com/csprh/AudioDenoiser.git).
+That codes ha been modified to processing reverb
 
 Tensorflow 2.0 implementation of the paper [A Fully Convolutional Neural Network for Speech Enhancement](https://pdfs.semanticscholar.org/9ed8/e2f6c338f4e0d1ab0d8e6ab8b836ea66ae95.pdf)
 
